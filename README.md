@@ -1,40 +1,52 @@
-\# Simulador de Investimentos em FIIs
+\# 📈 Simulador de Investimentos em FIIs
 
 
 
-\## Sobre o Projeto
+Uma planilha Excel para simulação de investimentos em Fundos de Investimento Imobiliário (FIIs), permitindo projetar patrimônio acumulado, dividendos mensais e rentabilidade ao longo do tempo.
 
 
 
-Esta planilha foi criada para simular investimentos mensais em Fundos de Investimento Imobiliário (FIIs), permitindo projetar a evolução do património ao longo do tempo com base em aportes periódicos e rendimentos estimados.
+\---
 
 
 
-O simulador ajuda investidores a visualizar:
+\## 🎯 Objetivo
 
 
 
-\- Património acumulado ao longo dos anos
+Este projeto foi desenvolvido para auxiliar investidores a planearem aportes periódicos e analisar o potencial crescimento de uma carteira de FIIs.
+
+
+
+A ferramenta permite visualizar:
+
+
+
+\- Patrimônio acumulado
 
 \- Total investido
 
-\- Rendimentos acumulados
+\- Rendimentos gerados
 
-\- Dividendos mensais projetados
+\- Dividendos mensais estimados
 
 \- Rentabilidade total da carteira
 
 
 
-\## Funcionalidades
+\---
 
 
 
-\### Simulação Personalizada
+\## ⚙️ Funcionalidades
 
 
 
-O utilizador pode definir:
+\### Personalização da Simulação
+
+
+
+É possível configurar:
 
 
 
@@ -50,111 +62,143 @@ O utilizador pode definir:
 
 
 
-\### Distribuição por Tipo de FII
+\### Diversificação da Carteira
 
 
 
-A carteira pode ser distribuída entre:
+A planilha suporta a distribuição dos aportes entre:
 
 
 
-\- FIIs de Papel
+\- 📄 FIIs de Papel
 
-\- FIIs de Tijolo
+\- 🏢 FIIs de Tijolo
 
-\- FIIs Híbridos
+\- 🔄 FIIs Híbridos
 
-\- Fundos de Fundos (FOFs)
-
-
-
-\### Indicadores Calculados
+\- 📦 Fundos de Fundos (FOFs)
 
 
 
-A planilha calcula automaticamente:
+\### Indicadores Automáticos
 
 
 
-\- Património acumulado
+Os cálculos são realizados automaticamente:
 
-\- Total investido
 
-\- Rendimentos gerados
 
-\- Dividendos mensais estimados
+\- Patrimônio acumulado
+
+\- Capital total investido
+
+\- Rendimentos acumulados
 
 \- Dividend Yield médio ponderado
 
-\- Gráfico de evolução patrimonial
+\- Dividendos mensais estimados
+
+\- Evolução patrimonial
 
 
 
-\## Estrutura da Planilha
+\---
 
 
 
-\### Aba: Simulador
+\## 📊 Estrutura da Planilha
 
 
 
-Contém os parâmetros principais da simulação e os resultados consolidados.
+\### Aba Simulador
 
 
 
-\### Aba: Projeção
+Contém os parâmetros da simulação e os resultados consolidados.
 
 
 
-Apresenta a evolução mensal do investimento, incluindo:
+\### Aba Projeção
 
 
 
-\- Data
+Apresenta a evolução mensal do investimento com:
+
+
 
 \- Aporte mensal
 
 \- Total investido
 
-\- Património acumulado
+\- Patrimônio acumulado
 
 \- Dividendos estimados
 
 
 
-\## Observações
+\---
 
 
 
-Os resultados apresentados são apenas ilustrativos.
+\## 📂 Arquivos do Projeto
 
 
 
-O simulador:
+| Arquivo | Descrição |
+
+|----------|----------|
+
+| Plan\_Para\_Calculo\_De\_Investimentos.xlsx | Planilha principal do simulador |
+
+| README.md | Documentação do projeto |
 
 
 
-\- Não considera impostos
-
-\- Não considera inflação
-
-\- Não considera taxas operacionais
-
-\- Não representa garantia de retorno futuro
+\---
 
 
 
-\## Autor
+\## ⚠️ Importante
 
 
 
-Jeferson Gomes
+Esta ferramenta tem finalidade exclusivamente educacional.
 
 
 
-\## Licença
+Os resultados apresentados:
 
 
 
-Este projeto é disponibilizado para fins educacionais e de estudo.
+\- Não consideram impostos
+
+\- Não consideram inflação
+
+\- Não consideram custos operacionais
+
+\- Não representam garantia de retorno futuro
+
+
+
+\---
+
+
+
+\## 👨‍💻 Autor
+
+
+
+\*\*Jeferson Gomes\*\*
+
+
+
+\---
+
+
+
+\## 📜 Licença
+
+
+
+Este projeto está disponível para fins educacionais e de estudo.
 
